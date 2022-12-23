@@ -1,4 +1,4 @@
-package PBOSESI9.deque;
+package PBO2SESI9.deque;
 
 public abstract class Karakter {
     abstract String getName();
