@@ -1,4 +1,4 @@
-package PBOSESI9;
+package PBO1SESI9;
 
 public class Mahasiswa<A,B,C>{
     private A nim;
