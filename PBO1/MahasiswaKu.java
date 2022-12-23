@@ -1,4 +1,4 @@
-package PBOSESI9;
+package PBO1SESI9;
 
 public class MahasiswaKu {
     public static void main(String[] args) {
